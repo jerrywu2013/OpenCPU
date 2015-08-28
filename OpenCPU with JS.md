@@ -23,3 +23,9 @@ sudo apt-get install r-base-dev
 library(devtools)
 library(opencpu)
 ```
+#### Problem : installation of package ‘devtools’ had non-zero exit status
+```
+sudo apt-get install libcurl4-gnutls-dev
+R
+install.packages("RCurl")
+```
