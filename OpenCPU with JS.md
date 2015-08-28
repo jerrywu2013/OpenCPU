@@ -29,3 +29,8 @@ sudo apt-get install libcurl4-gnutls-dev
 R
 install.packages("RCurl")
 ```
+#### Problem : installation of package 'xml2' had non-zero exit status
+```
+sudo apt-get install libcurl4-openssl-dev
+sudo apt-get install libxml2-dev
+```
